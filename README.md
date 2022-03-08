@@ -8,10 +8,10 @@ Two versions provided ATM.
 
   <img src="assets/esp8266-box.png" width="300">
 
-  [Download STL files zip](stl/esp8266-xhost-pro-stl.zip)
+  [Download STL files zip](https://github.com/xperiments/xhost-pro-stl/raw/main/stl/esp8266-xhost-pro-stl.zip)
 
 - Lolin S2 Mini
 
   <img src="assets/lolin-s2-box.png" width="300">
 
-  [Download STL files zip](stl/lolin-s2-mini-box-stl.zip)
+  [Download STL files zip](https://github.com/xperiments/xhost-pro-stl/raw/main/stl/lolin-s2-mini-box-stl.zip)
